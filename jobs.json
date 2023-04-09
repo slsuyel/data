@@ -13,7 +13,8 @@
     "email": "career@google.com",
     "responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members",
     "educational_Requirements": "Bachelor degree to complete any reputational university.",
-    "experiences": "Bachelor degree to complete any reputational university."
+    "experiences": "Bachelor degree to complete any reputational university.",
+    "description ": " A software engineer designs, develops, tests, and maintains computer software, including programs, operating systems, and applications."
   },
   {
     "id": "002",
@@ -29,7 +30,8 @@
     "email": "careers@microsoft.com",
     "responsibility": "Design and develop software solutions that meet business and technical requirements. Collaborate with cross-functional teams to deliver high-quality software products on time and within budget.",
     "educational_Requirements": "Bachelor's degree in Computer Science or related field",
-    "experiences:": "At least 5 years of software development experience"
+    "experiences:": "At least 5 years of software development experience",
+    "description ": " A software engineer designs, develops, tests, and maintains computer software, including programs, operating systems, and applications."
   },
   {
     "id": "003",
@@ -45,7 +47,8 @@
     "email": "careers@logo.com",
     "responsibility": "Create and manage social media content and campaigns across various platforms. Analyze and report on social media performance metrics. Collaborate with other marketing teams to ensure brand consistency.",
     "educational_Requirements": "Bachelor's degree in Marketing or related field",
-    "experiences": "At least 3 years of social media management experience"
+    "experiences": "At least 3 years of social media management experience",
+    "description ": " A software engineer designs, develops, tests, and maintains computer software, including programs, operating systems, and applications."
   },
   {
     "id": "004",
@@ -61,7 +64,8 @@
     "email": "careers@apple.com",
     "responsibility": "Design and develop iOS applications that meet business and technical requirements. Collaborate with cross-functional teams to deliver high-quality software products on time and within budget.",
     "educational_Requirements": "Bachelor's degree in Computer Science or related field",
-    "experiences": "At least 2 years of iOS development experience"
+    "experiences": "At least 2 years of iOS development experience",
+    "description ": " A software engineer designs, develops, tests, and maintains computer software, including programs, operating systems, and applications."
   },
   {
     "id": "005",
@@ -77,7 +81,8 @@
     "email": "careers@facebook.com",
     "responsibility": "Manage the lifecycle of product development, from ideation to launch. Collaborate with cross-functional teams to gather requirements and prioritize features. Analyze user feedback and data to drive product improvements.",
     "educational_Requirements": "Bachelor's degree in Business or related field",
-    "experiences": "At least 5 years of product management experience"
+    "experiences": "At least 5 years of product management experience",
+    "description ": " A software engineer designs, develops, tests, and maintains computer software, including programs, operating systems, and applications."
   },
   {
     "id": "006",
@@ -93,7 +98,8 @@
     "email": "careers@adobe.com",
     "responsibility": "Create visual designs for print and digital media, including web and mobile interfaces, logos, and marketing materials. Collaborate with other designers and stakeholders to ensure brand consistency.",
     "educational_Requirements": "Bachelor's degree in Graphic Design or related field",
-    "experiences": "At least 3 years of graphic design experience"
+    "experiences": "At least 3 years of graphic design experience",
+    "description ": " A software engineer designs, develops, tests, and maintains computer software, including programs, operating systems, and applications."
   },
   {
     "id": "007",
@@ -109,7 +115,8 @@
     "email": "careers@ibm.com",
     "responsibility": "Design and develop software solutions that meet business and technical requirements. Collaborate with cross-functional teams to deliver high-quality software products on time and within budget.",
     "educational_Requirements": "Bachelor's degree in Computer Science or related field",
-    "experiences": "At least 2 years of software development experience"
+    "experiences": "At least 2 years of software development experience",
+    "description ": " A software engineer designs, develops, tests, and maintains computer software, including programs, operating systems, and applications."
   },
   {
     "id": "008",
@@ -125,7 +132,8 @@
     "email": "careers@webflow.com",
     "responsibility": "Write and edit high-quality content for various mediums, including blogs, social media, and email. Collaborate with other writers, designers, and stakeholders to ensure brand consistency.",
     "educational_Requirements": "Bachelor's degree in Journalism, English, or related field",
-    "experiences": "At least 2 years of content writing experience"
+    "experiences": "At least 2 years of content writing experience",
+    "description ": " A software engineer designs, develops, tests, and maintains computer software, including programs, operating systems, and applications."
   },
   {
     "id": "009",
@@ -141,7 +149,8 @@
     "email": "careers@oracle.com",
     "responsibility": "Design and develop Java applications that meet business and technical requirements. Collaborate with cross-functional teams to deliver high-quality software products on time and within budget.",
     "educational_Requirements": "Bachelor's degree in Computer Science or related field",
-    "experiences": "At least 5 years of Java development experience"
+    "experiences": "At least 5 years of Java development experience",
+    "description ": " A software engineer designs, develops, tests, and maintains computer software, including programs, operating systems, and applications."
   },
   {
     "id": "010",
@@ -157,6 +166,7 @@
     "email": "careers@microsoft.com",
     "responsibility": "Design and implement cloud-based solutions that meet business and technical requirements. Collaborate with cross-functional teams to deliver high-quality software products on time and within budget.",
     "educational_Requirements": "Bachelor's degree in Computer Science or related field",
-    "experiences": "At least 5 years of cloud engineering experience"
+    "experiences": "At least 5 years of cloud engineering experience",
+    "description ": " A software engineer designs, develops, tests, and maintains computer software, including programs, operating systems, and applications."
   }
 ]
