@@ -57,7 +57,7 @@
   },
   {
     "ID": "8",
-    "ChefPicture": "https://example.com/chef8.jpg",
+    "ChefPicture": "https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png",
     "ChefName": "Olivia Anderson",
     "YearsOfExperience": 3,
     "NumberOfRecipes": 80,
@@ -65,7 +65,7 @@
   },
   {
     "ID": "9",
-    "ChefPicture": "https://example.com/chef9.jpg",
+    "ChefPicture": "https://www.ecpi.edu/sites/default/files/civ_30.png",
     "ChefName": "Ethan Thompson",
     "YearsOfExperience": 18,
     "NumberOfRecipes": 280,
@@ -73,7 +73,7 @@
   },
   {
     "ID": "10",
-    "ChefPicture": "https://example.com/chef10.jpg",
+    "ChefPicture": "https://media.istockphoto.com/id/1142230193/photo/happy-chef-working-in-a-kitchen-at-a-restaurant.jpg?s=170667a&w=0&k=20&c=KOSTgUc3aPkaQWeYrL0J6pHRbwx6aMkXc0A2RF8KDxc=",
     "ChefName": "Ava Hernandez",
     "YearsOfExperience": 6,
     "NumberOfRecipes": 130,
