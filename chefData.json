@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "1",
+    "ChefPicture": "https://example.com/chef1.jpg",
+    "ChefName": "John Smith",
+    "YearsOfExperience": 15,
+    "NumberOfRecipes": 200,
+    "Likes": 500
+  },
+  {
+    "ID": "2",
+    "ChefPicture": "https://example.com/chef2.jpg",
+    "ChefName": "Emily Johnson",
+    "YearsOfExperience": 8,
+    "NumberOfRecipes": 150,
+    "Likes": 300
+  },
+  {
+    "ID": "3",
+    "ChefPicture": "https://example.com/chef3.jpg",
+    "ChefName": "Michael Brown",
+    "YearsOfExperience": 12,
+    "NumberOfRecipes": 250,
+    "Likes": 400
+  },
+  {
+    "ID": "4",
+    "ChefPicture": "https://example.com/chef4.jpg",
+    "ChefName": "Sarah Davis",
+    "YearsOfExperience": 5,
+    "NumberOfRecipes": 100,
+    "Likes": 200
+  },
+  {
+    "ID": "5",
+    "ChefPicture": "https://example.com/chef5.jpg",
+    "ChefName": "Daniel Wilson",
+    "YearsOfExperience": 20,
+    "NumberOfRecipes": 300,
+    "Likes": 700
+  },
+  {
+    "ID": "6",
+    "ChefPicture": "https://example.com/chef6.jpg",
+    "ChefName": "Sophia Thompson",
+    "YearsOfExperience": 10,
+    "NumberOfRecipes": 180,
+    "Likes": 350
+  },
+  {
+    "ID": "7",
+    "ChefPicture": "https://example.com/chef7.jpg",
+    "ChefName": "Jacob Martinez",
+    "YearsOfExperience": 7,
+    "NumberOfRecipes": 120,
+    "Likes": 250
+  },
+  {
+    "ID": "8",
+    "ChefPicture": "https://example.com/chef8.jpg",
+    "ChefName": "Olivia Anderson",
+    "YearsOfExperience": 3,
+    "NumberOfRecipes": 80,
+    "Likes": 150
+  },
+  {
+    "ID": "9",
+    "ChefPicture": "https://example.com/chef9.jpg",
+    "ChefName": "Ethan Thompson",
+    "YearsOfExperience": 18,
+    "NumberOfRecipes": 280,
+    "Likes": 600
+  },
+  {
+    "ID": "10",
+    "ChefPicture": "https://example.com/chef10.jpg",
+    "ChefName": "Ava Hernandez",
+    "YearsOfExperience": 6,
+    "NumberOfRecipes": 130,
+    "Likes": 280
+  }
+]
