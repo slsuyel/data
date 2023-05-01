@@ -1,7 +1,7 @@
 [
   {
     "ID": "1",
-    "ChefPicture": "https://example.com/chef1.jpg",
+    "ChefPicture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
     "ChefName": "John Smith",
     "YearsOfExperience": 15,
     "NumberOfRecipes": 200,
@@ -9,7 +9,7 @@
   },
   {
     "ID": "2",
-    "ChefPicture": "https://example.com/chef2.jpg",
+    "ChefPicture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
     "ChefName": "Emily Johnson",
     "YearsOfExperience": 8,
     "NumberOfRecipes": 150,
@@ -17,7 +17,7 @@
   },
   {
     "ID": "3",
-    "ChefPicture": "https://example.com/chef3.jpg",
+    "ChefPicture": "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/article_images/2020/05/19/file6vnj9b7vynp1hpnnqa8c-684723977-1566811486.jpg?itok=UR2b0eG1",
     "ChefName": "Michael Brown",
     "YearsOfExperience": 12,
     "NumberOfRecipes": 250,
@@ -25,7 +25,7 @@
   },
   {
     "ID": "4",
-    "ChefPicture": "https://example.com/chef4.jpg",
+    "ChefPicture": "https://t3.ftcdn.net/jpg/03/52/28/98/360_F_352289873_KwQHjXfSdndjNjPNmJqzrzgEuBuVUSjf.jpg",
     "ChefName": "Sarah Davis",
     "YearsOfExperience": 5,
     "NumberOfRecipes": 100,
@@ -33,7 +33,7 @@
   },
   {
     "ID": "5",
-    "ChefPicture": "https://example.com/chef5.jpg",
+    "ChefPicture": "https://c8.alamy.com/comp/KW9GT7/portrait-of-pretty-chef-woman-preparing-cooking-KW9GT7.jpg",
     "ChefName": "Daniel Wilson",
     "YearsOfExperience": 20,
     "NumberOfRecipes": 300,
@@ -41,7 +41,7 @@
   },
   {
     "ID": "6",
-    "ChefPicture": "https://example.com/chef6.jpg",
+    "ChefPicture": "https://w7.pngwing.com/pngs/728/838/png-transparent-chef-chef-s-uniform-celebrity-chef-cook-chef-kitchen-food-hat.png",
     "ChefName": "Sophia Thompson",
     "YearsOfExperience": 10,
     "NumberOfRecipes": 180,
@@ -49,7 +49,7 @@
   },
   {
     "ID": "7",
-    "ChefPicture": "https://example.com/chef7.jpg",
+    "ChefPicture": "https://www.yourfreecareertest.com/wp-content/uploads/2016/07/chef.jpg",
     "ChefName": "Jacob Martinez",
     "YearsOfExperience": 7,
     "NumberOfRecipes": 120,
